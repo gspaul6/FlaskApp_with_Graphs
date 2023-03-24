@@ -21,8 +21,8 @@ Languages Used:
 The requirement for this project are given in the file :
 1. Requirements.txt
 
-To make sure the said project functions properly, the following command will be used:
+To make sure the said project functions properly in the same environment as the developer, the following command will be used:
 1. pip install -r requirements.txt
 
-N.B : (Please make sure to activate virtual environment before installing the libraries, so as the libraries install dont hinder with your other projects)
+N.B : Please make sure to activate virtual environment before installing the libraries, so as the libraries install dont hinder with your other projects
 
